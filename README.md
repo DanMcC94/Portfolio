@@ -1,1 +1,1 @@
-# Portfolio-
+# Portfolio- I'm going to work on this more as I know this page will be used later down the line for more projects, but I'm having a lot of trouble with figuring out some of the information. I worked on this for many hours straight just to figure out I was missing the jsscripting at the start. I've scheduled another session with my tutor to go over some more of the fine tuning. 
