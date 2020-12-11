@@ -1,0 +1,19 @@
+.box-set {
+    position: relative;
+    height: 400px;
+    background: coral;
+}
+
+
+.placeholder {
+    padding-left: 50%;
+}
+
+body {
+    background-image: url("../images/polly-background-1631651.jpg");
+}
+
+.portfolioBlock {
+    background-color: whitesmoke;
+    padding: 5%;
+}
