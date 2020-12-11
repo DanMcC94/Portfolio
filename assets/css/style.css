@@ -1,19 +1,25 @@
-.box-set {
-    position: relative;
-    height: 400px;
-    background: coral;
-}
-
-
-.placeholder {
-    padding-left: 50%;
-}
-
 body {
     background-image: url("../images/polly-background-1631651.jpg");
 }
-
-.portfolioBlock {
+/*my block used to hold the relevant information*/
+.Block {
     background-color: whitesmoke;
     padding: 5%;
+    margin-top: 10px;
+}
+/*used to change color of text on contact page*/
+.control-label {
+    color: teal;
+}
+/*image on the index page*/
+#controllerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    height: 300px; 
+}
+
+.centerText {
+    text-align: center;
 }
